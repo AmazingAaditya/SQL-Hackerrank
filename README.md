@@ -25,3 +25,15 @@ ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Japanese%20Citie
 Japanese Cities' Names<br>
 qn - https://www.hackerrank.com/challenges/japanese-cities-name/problem<br>
 ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Japanese%20Cities'%20Names.sql<br>
+
+Weather Observation Station 1<br>
+qn -<br>
+ans-<br>
+
+Weather Observation Station 3<br>
+qn - <br>
+ans- <br>
+
+Weather Observation Station 4<br>
+qn - <br>
+ans- <br>
