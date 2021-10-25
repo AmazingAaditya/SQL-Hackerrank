@@ -1,5 +1,15 @@
 # SQL-Hackerrank
 
+## Index
+#### <a href ="https://github.com/AmazingAaditya/SQL-Hackerrank/tree/main#basic-select"> 1. Basic Select </a>
+#### <a href ="#"> 2. Advanced Select </a>
+#### <a href ="#"> 3. Aggregation </a>
+#### <a href ="#"> 4. Basic Join </a>
+#### <a href ="#"> 5. Advanced Join </a>
+#### <a href ="#"> 6. Alternative Queries </a>
+
+
+
 ## Basic Select
 
 Revising the Select Query I<br>
@@ -37,3 +47,4 @@ ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Weather%20Observ
 Weather Observation Station 4<br>
 qn - https://www.hackerrank.com/challenges/weather-observation-station-4/problem<br>
 ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Weather%20Observation%20Station%204.sql<br>
+
