@@ -20,7 +20,7 @@ ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Select%20By%20ID
 
 Japanese Cities' Attributes<br>
 qn - https://www.hackerrank.com/challenges/japanese-cities-attributes/problem<br>
-ans- <br>
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Japanese%20Cities'%20Attributes.sql<br>
 
 Japanese Cities' Names<br>
 qn - https://www.hackerrank.com/challenges/japanese-cities-name/problem<br>
