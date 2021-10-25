@@ -1,6 +1,7 @@
 # SQL-Hackerrank
+www.hackerrank.com/domains/sql
 
-## Index
+## Index 
 #### <a href ="https://github.com/AmazingAaditya/SQL-Hackerrank/tree/main#basic-select"> 1. Basic Select </a>
 #### <a href ="#"> 2. Advanced Select </a>
 #### <a href ="#"> 3. Aggregation </a>
