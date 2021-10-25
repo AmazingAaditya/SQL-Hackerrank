@@ -8,7 +8,7 @@ ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Revising%20the%2
 
 Revising the Select Query II<br>
 qn -https://www.hackerrank.com/challenges/revising-the-select-query-2/problem<br>
-ans-  
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Revising%20the%20Select%20Query%20II 
 
 Select All<br>
 qn - https://www.hackerrank.com/challenges/select-all-sql/problem<br>
