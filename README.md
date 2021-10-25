@@ -16,7 +16,7 @@ ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Select%20All<br>
 
 Select By ID<br>
 qn - https://www.hackerrank.com/challenges/select-by-id/problem<br>
-ans- <br>
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Select%20By%20ID.sql<br>
 
 Japanese Cities' Attributes<br>
 qn - https://www.hackerrank.com/challenges/japanese-cities-attributes/problem<br>
