@@ -4,24 +4,24 @@
 
 Revising the Select Query I<br>
 qn - https://www.hackerrank.com/challenges/revising-the-select-query/problem<br>
-ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Revising%20the%20Select%20Query%20I
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Revising%20the%20Select%20Query%20I<br>
 
 Revising the Select Query II<br>
 qn -https://www.hackerrank.com/challenges/revising-the-select-query-2/problem<br>
-ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Revising%20the%20Select%20Query%20II 
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Revising%20the%20Select%20Query%20II<br>
 
 Select All<br>
 qn - https://www.hackerrank.com/challenges/select-all-sql/problem<br>
-ans- 
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Select%20All<br>
 
-<br>
-qn - <br>
-ans- 
+Select By ID<br>
+qn - https://www.hackerrank.com/challenges/select-by-id/problem<br>
+ans- <br>
 
-<br>
-qn - <br>
-ans- 
+Japanese Cities' Attributes<br>
+qn - https://www.hackerrank.com/challenges/japanese-cities-attributes/problem<br>
+ans- <br>
 
-<br>
-qn - <br>
-ans- 
+Japanese Cities' Names<br>
+qn - https://www.hackerrank.com/challenges/japanese-cities-name/problem<br>
+ans- <br>
