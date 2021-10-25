@@ -27,13 +27,13 @@ qn - https://www.hackerrank.com/challenges/japanese-cities-name/problem<br>
 ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Japanese%20Cities'%20Names.sql<br>
 
 Weather Observation Station 1<br>
-qn -<br>
-ans-<br>
+qn - https://www.hackerrank.com/challenges/weather-observation-station-1/problem<br>
+ans-https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Weather%20Observation%20Station%201.sql<br>
 
 Weather Observation Station 3<br>
-qn - <br>
-ans- <br>
+qn - https://www.hackerrank.com/challenges/weather-observation-station-3/problem<br>
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Weather%20Observation%20Station%203.sql<br>
 
 Weather Observation Station 4<br>
-qn - <br>
-ans- <br>
+qn - https://www.hackerrank.com/challenges/weather-observation-station-4/problem<br>
+ans- https://github.com/AmazingAaditya/SQL-Hackerrank/blob/main/Weather%20Observation%20Station%204.sql<br>
